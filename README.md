@@ -11,7 +11,7 @@ This is a super short Python script that makes nice perceptually uniform gradien
 
 The program should prompt you for input. Follow the steps, and you'll get a nice list of colors to work with.
 
-Known limitations: can only specify start and end steps. Do I care? ¯\_(ツ)_/¯
+Known limitations: can only specify start and end steps. Do I care? ¯\\_(ツ)_/¯
 
 Here's a screenshot:
 
@@ -21,3 +21,5 @@ Anyway, have a nice day.
 
 Sincerely,
 Isaac Clayton
+
+P.S. This tool uses HSLuv under the hood. You can read more about it and mess around with it here: https://www.hsluv.org/. Special thanks to them!
